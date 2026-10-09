@@ -1,19 +1,25 @@
 Strategy
+
    ↓
    
 Concept-to-Market
+
    ↓
 
 Source-to-Pay
+   
    ↓
 
 Plan-to-Produce
+   
    ↓
 
 Order-to-Cash
+   
    ↓
 
 Service-to-Cash
+   
    ↓
 
 Record-to-Report
