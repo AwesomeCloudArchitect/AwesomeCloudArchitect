@@ -15,48 +15,53 @@
 12.	Explain trade-offs
 
 #Study concepts
+
 ##Requirements
 - Functional vs non-functional 
 - SLA / SLO / SLA concepts 
-•	Availability 
-•	Latency 
-•	Throughput 
-•	Consistency 
-•	Durability 
-•	Scalability 
-•	Trade-offs
+- Availability 
+- Latency 
+-	Throughput 
+-	Consistency 
+-	Durability 
+-	Scalability 
+-	Trade-offs
+
 ##Distributed systems
-•	Synchronous vs asynchronous communication 
-•	Event-driven architecture 
-•	Message queues 
-•	Pub/sub 
-•	Idempotency 
-•	Retries 
-•	Dead-letter queues 
-•	Circuit breakers 
-•	Backpressure 
-•	Distributed transactions 
-•	Eventual consistency 
+-	Synchronous vs asynchronous communication 
+-	Event-driven architecture 
+-	Message queues 
+-	Pub/sub 
+-	Idempotency 
+-	Retries 
+-	Dead-letter queues 
+-	Circuit breakers 
+-	Backpressure 
+-	Distributed transactions 
+-	Eventual consistency 
+
 ##Scalability
-•	Horizontal vs vertical scaling 
-•	Load balancing 
-•	Stateless services 
-•	Caching 
-•	Database scaling 
-•	Sharding 
-•	Replication 
+-	Horizontal vs vertical scaling 
+-	Load balancing 
+-	Stateless services 
+-	Caching 
+-	Database scaling 
+-	Sharding 
+-	Replication 
+
 ##Reliability
-•	Failure domains 
-•	Multi-zone / multi-region 
-•	Disaster recovery 
-•	RTO / RPO 
-•	Graceful degradation 
-•	Fault tolerance 
+-	Failure domains 
+-	Multi-zone / multi-region 
+-	Disaster recovery 
+-	RTO / RPO 
+-	Graceful degradation 
+-	Fault tolerance 
+
 ##Security
-•	Authentication vs authorization 
-•	IAM 
-•	Least privilege 
-•	Network segmentation 
-•	Encryption 
+-	Authentication vs authorization 
+-	IAM 
+-	Least privilege 
+-	Network segmentation 
+-	Encryption 
 •	Secrets 
 •	Zero Trust 
