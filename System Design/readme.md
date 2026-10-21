@@ -1,6 +1,6 @@
-#System Design
+# System Design
 
-##Goal
+## Goal
 1.	Clarify requirements
 2.	Identify functional vs non-functional requirements
 3.	Estimate scale
@@ -14,9 +14,7 @@
 11.	Discuss cost
 12.	Explain trade-offs
 
-#Study concepts
-
-##Requirements
+## Requirements
 - Functional vs non-functional 
 - SLA / SLO / SLA concepts 
 - Availability 
@@ -27,7 +25,7 @@
 -	Scalability 
 -	Trade-offs
 
-##Distributed systems
+## Distributed systems
 -	Synchronous vs asynchronous communication 
 -	Event-driven architecture 
 -	Message queues 
@@ -40,7 +38,7 @@
 -	Distributed transactions 
 -	Eventual consistency 
 
-##Scalability
+## Scalability
 -	Horizontal vs vertical scaling 
 -	Load balancing 
 -	Stateless services 
@@ -49,7 +47,7 @@
 -	Sharding 
 -	Replication 
 
-##Reliability
+## Reliability
 -	Failure domains 
 -	Multi-zone / multi-region 
 -	Disaster recovery 
@@ -57,11 +55,11 @@
 -	Graceful degradation 
 -	Fault tolerance 
 
-##Security
+## Security
 -	Authentication vs authorization 
 -	IAM 
 -	Least privilege 
 -	Network segmentation 
 -	Encryption 
-•	Secrets 
-•	Zero Trust 
+-	Secrets 
+-	Zero Trust 
