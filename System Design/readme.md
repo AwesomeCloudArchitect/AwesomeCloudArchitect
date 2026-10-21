@@ -16,8 +16,8 @@
 
 #Study concepts
 ##Requirements
-•	Functional vs non-functional 
-•	SLA / SLO / SLA concepts 
+- Functional vs non-functional 
+- SLA / SLO / SLA concepts 
 •	Availability 
 •	Latency 
 •	Throughput 
