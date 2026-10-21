@@ -1,3 +1,5 @@
+![Enterprise End-to-End Mapping of Business Processes](https://github.com/AwesomeCloudArchitect/AwesomeCloudArchitect/blob/main/.blob/img/Enterprise-E2E-BusinessProcessFramework.png)
+
 Enterprise End-to-End Mapping of Business Processes
 
 In a modern enterprise, teams are aligned to processes like Order-to-Cash, Source-to-Pay, Record-to-Report, and Hire-to-Retire, each spanning multiple traditional departments. This cross-functional mapping ensures Finance, Procurement, Sales, HR, R&D, and other groups collaborate along the process value chain.
