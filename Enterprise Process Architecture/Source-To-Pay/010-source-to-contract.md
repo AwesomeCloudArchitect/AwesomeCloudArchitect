@@ -6,6 +6,16 @@ tags: ['erp', 'processes', 's2c']
 last_updated: 2026-10-22
 ---
 
+# Table of contents
+
+<!--TOC-->
+
+- [Table of contents](#table-of-contents)
+- [Intro](#Intro)
+- [Key Conceptsis](#Key-Concepts)
+
+<!--TOC-->
+
 # Intro
 
 Source-to-Contract (S2C) is the procurement process that begins when a business identifies a sourcing need and ends when a contract is signed with a supplier. It covers requirements definition, supplier identification, RFX events (RFI/RFP/RFQ), proposal evaluation, award decisions, negotiation, and contract execution. S2C does not include purchase orders, invoicing, or payment; those belong to Source-to-Pay (S2P).
