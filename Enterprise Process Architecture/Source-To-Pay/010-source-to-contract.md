@@ -143,3 +143,34 @@ Contracting workflows manage the process from award decision through contract ex
 - Centralize collaboration: Work from a shared platform rather than email to reduce confusion and missed feedback.
 - Document decisions: Record why changes were made or rejected to support future reviews and audits.
 - Common mistake: Managing contract workflows via email. This leads to version confusion, missed approvals, and poor auditability. Use structured workflows with clear stages and approval requirements.
+
+# Legal Review and Redlining
+
+Legal review ensures contracts protect the organization and comply with applicable laws and policies. Redlining tracks changes during negotiation. Approvals ensure proper authorization before execution.
+
+![Source-To-Contract Lifecycle](https://github.com/AwesomeCloudArchitect/AwesomeCloudArchitect/blob/main/.blob/img/s2c-process-Legal-workflows.png)
+
+## What Legal Teams Review
+
+- Risk assessment - Identify legal, financial, and operational risks in the contract.
+- Compliance - Ensure terms comply with applicable laws, regulations, and internal policies.
+- Standard terms - Verify use of approved contract language and pre-approved clauses.
+- Liability and indemnity - Assess risk allocation, liability caps, and indemnification provisions.
+- Termination and remedies - Review exit clauses, termination rights, and dispute resolution processes.
+- Data protection - Ensure GDPR, CCPA, and other data privacy requirements are properly covered.
+
+## Redlining Best Practices
+
+- Show changes clearly: Use tracked changes or redline tools so all modifications are visible and attributable.
+- Explain the reason: Add comments explaining why each change is needed, not just what changed.
+- Respond to all redlines: Accept, reject, or counter every supplier redline. Silence creates ambiguity.
+- Maintain version control: Keep a clear version history so both parties always know which draft is current.
+
+## Typical Approval Chain
+1. Procurement Manager: Validates terms and pricing against the award decision
+2. Legal: Reviews terms, assesses risk, and confirms compliance
+3. Finance: Approves budget and payment terms
+4. Business Owner: Confirms all requirements are met in the final contract
+5. Executive: Required if contract value exceeds threshold (e.g., $500K+)
+
+  
