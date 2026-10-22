@@ -63,14 +63,48 @@ Source to Contract (S2C) is the end-to-end process from identifying a business n
 
 | Dimension | Source-to-Contract (S2C) | Source-to-Pay (S2P) |
 | ----------- | ----------- | ----------- |
-| Scope | Sourcing through contract execution	Sourcing through invoice payment |
+| Scope | Sourcing through contract execution | Sourcing through invoice payment |
+| End point | Signed contract | Invoice paid and reconciled |
+| Includes purchase orders | No | Yes |
+| Includes invoicing and AP	| No | Yes |
+| Includes three-way match | No | Yes |
+| Primary focus | Supplier selection and contracting | Transactional buying and payment
+| Who leads it | Strategic procurement team | Procurement and accounts payable |
+| Best for | Complex, high-value sourcing events | High-volume, repetitive purchases |
+| Typical tools | S2C platforms, CLM software | ERP, P2P modules, AP automation |
 
+# Standard Artifacts
 
-End point	Signed contract	Invoice paid and reconciled
-Includes purchase orders	No	Yes
-Includes invoicing and AP	No	Yes
-Includes three-way match	No	Yes
-Primary focus	Supplier selection and contracting	Transactional buying and payment
-Who leads it	Strategic procurement team	Procurement and accounts payable
-Best for	Complex, high-value sourcing events	High-volume, repetitive purchases
-Typical tools	S2C platforms, CLM software	ERP, P2P modules, AP automation
+S2C processes produce standard documents at each stage. These artifacts capture requirements, communicate with suppliers, evaluate proposals, and document decisions. They are the foundation for auditability.
+
+![Source-To-Contract Lifecycle](https://github.com/AwesomeCloudArchitect/AwesomeCloudArchitect/blob/main/.blob/img/s2c-process-artifacts.png)
+
+## Core Artifacts
+
+**Requirements Document** Captures functional, non-functional, and business requirements. Includes priorities, success criteria, constraints, and assumptions.
+
+Purpose: Ensures stakeholder alignment. Guides RFX creation and evaluation criteria.
+
+RFX Document
+
+Request for Information, Proposal, Quotation, or Solution. Includes requirements, evaluation criteria, timeline, terms, and supplier instructions.
+
+Purpose: Communicates needs to suppliers and sets expectations for the evaluation process.
+
+Evaluation Scorecard
+
+Structured scoring framework with criteria, weights, scales, and evaluator assignments. Includes scoring rationale and comments.
+
+Purpose: Enables objective, consistent evaluation and documents how scores were determined.
+
+Award Memo
+
+Document summarizing evaluation results, award decision, rationale, and approvals. Includes cost analysis and risk assessment.
+
+Purpose: Documents the award decision for stakeholders and auditors. Essential for governance.
+
+Contract
+
+Final executed agreement with terms, pricing, SLAs, legal clauses, and obligations. Includes all schedules and attachments.
+
+Purpose: Legally binding agreement that defines the relationship, obligations, and remedies.
