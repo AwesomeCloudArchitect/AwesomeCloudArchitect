@@ -19,7 +19,7 @@ to make one.
 1. Check the [README](README.md) table of contents and the relevant folder's `index.md` to
    confirm where your topic belongs (or open a proposal issue if it doesn't fit anywhere yet).
 2. Read the [Style Guide](STYLE_GUIDE.md) — especially the provider-independence rule.
-3. Copy [PAGE_TEMPLATE.md](./template/PAGE_TEMPLATE.md) if you're starting a page from scratch, or edit
+3. Copy [Page Template Guide](/template/PAGE_TEMPLATE.md) if you're starting a page from scratch, or edit
    the existing placeholder file if one already exists.
 
 ## Submitting
