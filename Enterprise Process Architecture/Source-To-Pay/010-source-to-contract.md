@@ -4,6 +4,7 @@ status: draft
 maintainers: []
 tags: ['erp', 'processes', 's2c']
 last_updated: 2026-10-22
+ref: https://nvelop.ai/academy/source-to-contract
 ---
 
 # Table of contents
@@ -12,7 +13,11 @@ last_updated: 2026-10-22
 
 - [Table of contents](#table-of-contents)
 - [Intro](#Intro)
-- [Key Conceptsis](#Key-Concepts)
+- [Key Concepts](#Key-Concepts)
+- [S2C Lifecycle and Stages](#S2C-Lifecycle-and-Stages)
+    - [The Seven S2C Stages](#The-Seven-S2C-Stages)
+    - [Differences with Source-To-Pay](#Differences-with-Source-To-Pay)
+    - 
 
 <!--TOC-->
 
@@ -52,7 +57,6 @@ Source-to-Contract (S2C) is the procurement process that begins when a business 
     - Hybrid approach
     - Platform selection
 
-
 ## S2C Lifecycle and Stages
 
 Source to Contract (S2C) is the end-to-end process from identifying a business need through sourcing, evaluation, award, and contract execution. It covers everything before purchase orders and payments.
@@ -91,30 +95,31 @@ S2C processes produce standard documents at each stage. These artifacts capture 
 
 ## Core Artifacts
 
-**Requirements Document** Captures functional, non-functional, and business requirements. Includes priorities, success criteria, constraints, and assumptions.
+- **Requirements Document**
+    - Captures functional, non-functional, and business requirements. Includes priorities, success criteria, constraints, and assumptions.
+    - Purpose: Ensures stakeholder alignment. Guides RFX creation and evaluation criteria.
+- **RFX Document**
+    - Request for Information, Proposal, Quotation, or Solution. Includes requirements, evaluation criteria, timeline, terms, and supplier instructions.
+    - Purpose: Communicates needs to suppliers and sets expectations for the evaluation process.
+- **Evaluation Scorecard**
+    - Structured scoring framework with criteria, weights, scales, and evaluator assignments. Includes scoring rationale and comments.
+    - Purpose: Enables objective, consistent evaluation and documents how scores were determined.
+- **Award Memo**
+    - Document summarizing evaluation results, award decision, rationale, and approvals. Includes cost analysis and risk assessment.
+    - Purpose: Documents the award decision for stakeholders and auditors. Essential for governance.
+- **Contract**
+    - Final executed agreement with terms, pricing, SLAs, legal clauses, and obligations. Includes all schedules and attachments.
+    - Purpose: Legally binding agreement that defines the relationship, obligations, and remedies.
 
-Purpose: Ensures stakeholder alignment. Guides RFX creation and evaluation criteria.
+- **Supporting Documents**
+- Supplier Q&A log - Tracks all questions and answers exchanged during the RFX period
+- Due diligence reports - Supplier financial, legal, and compliance assessments
+- Reference checks - Feedback gathered from the supplier's existing customers
+- Negotiation notes - Records of discussions, agreements, and trade-offs
+- Approval records - Sign-offs from all required stakeholders and approvers
+- Change logs - Document version history and all modifications
 
-RFX Document
+# Contracting Workflows
 
-Request for Information, Proposal, Quotation, or Solution. Includes requirements, evaluation criteria, timeline, terms, and supplier instructions.
+Contracting workflows manage the process from award decision through contract execution. They ensure proper review, approval, and documentation at every stage.
 
-Purpose: Communicates needs to suppliers and sets expectations for the evaluation process.
-
-Evaluation Scorecard
-
-Structured scoring framework with criteria, weights, scales, and evaluator assignments. Includes scoring rationale and comments.
-
-Purpose: Enables objective, consistent evaluation and documents how scores were determined.
-
-Award Memo
-
-Document summarizing evaluation results, award decision, rationale, and approvals. Includes cost analysis and risk assessment.
-
-Purpose: Documents the award decision for stakeholders and auditors. Essential for governance.
-
-Contract
-
-Final executed agreement with terms, pricing, SLAs, legal clauses, and obligations. Includes all schedules and attachments.
-
-Purpose: Legally binding agreement that defines the relationship, obligations, and remedies.
