@@ -123,3 +123,23 @@ S2C processes produce standard documents at each stage. These artifacts capture 
 
 Contracting workflows manage the process from award decision through contract execution. They ensure proper review, approval, and documentation at every stage.
 
+![Source-To-Contract Lifecycle](https://github.com/AwesomeCloudArchitect/AwesomeCloudArchitect/blob/main/.blob/img/s2c-process-contracting-workflows.png)
+
+## Contract Workflow Stages
+
+1. Drafting - Create initial contract from award terms and standard templates
+2. Internal Review - Procurement, legal, finance, and business teams review the contract
+3. Legal Review - Legal identifies risks, suggests changes, and ensures compliance
+4. Negotiation - Exchange redlines with supplier and resolve all outstanding issues
+5. Approval - Obtain required sign-offs based on value, risk, and policy
+6. Execution - Both parties sign, contract is stored and stakeholders are notified
+
+## Workflow Best Practices
+
+- Define the workflow upfront: Know who reviews what, when, and in what order before drafting begins.
+- Use standard templates: Pre-approved contract templates speed drafting and ensure consistency.
+- Track versions: Maintain version control so everyone knows which version is current and what changed.
+- Set review deadlines: Define timelines for each stage to prevent reviews from stalling the process.
+- Centralize collaboration: Work from a shared platform rather than email to reduce confusion and missed feedback.
+- Document decisions: Record why changes were made or rejected to support future reviews and audits.
+- Common mistake: Managing contract workflows via email. This leads to version confusion, missed approvals, and poor auditability. Use structured workflows with clear stages and approval requirements.
