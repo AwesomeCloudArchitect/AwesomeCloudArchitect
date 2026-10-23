@@ -173,4 +173,112 @@ Legal review ensures contracts protect the organization and comply with applicab
 4. Business Owner: Confirms all requirements are met in the final contract
 5. Executive: Required if contract value exceeds threshold (e.g., $500K+)
 
-  
+# Auditability and Decision Records
+
+Auditability means being able to demonstrate who made what decisions, when, and why. Complete decision records protect the organization, ensure compliance, and enable continuous improvement.
+
+## Why Auditability Matters
+- Compliance - Regulatory audits require proof of proper processes and decisions.
+- Risk management - Document decisions so you can defend them if challenged or if issues arise later.
+- Governance - Demonstrate proper oversight and control to leadership and auditors.
+- Transparency - Show stakeholders clearly how and why decisions were made.
+- Learning - Review past decisions to identify patterns and improve future processes
+
+## What to Document
+- Decision Points
+    - Supplier selection rationale
+    - Evaluation scores and methodology
+    - Price comparisons and value analysis
+    - Risk assessments
+    - Approval decisions and rationale
+- Process Activities
+    - All communications with suppliers
+    - Q&A exchanges and responses
+    - Document versions and changes
+    - Approval workflows and sign-offs
+    - Negotiation history and agreements
+- Stakeholder Actions
+    - Who participated in evaluation
+    - Who approved what and when
+    - Who made changes and why
+    - Who had access to information
+
+## Audit Trail Requirements
+- Immutable logs: Records that cannot be altered or deleted after the fact.
+- Timestamped actions: Every action recorded with date, time, and timezone.
+- User attribution: Each action attributed to a specific person in the system.
+- Change history: What changed, from what to what, and the stated reason.
+- Version control: Complete history of all document versions and modifications.
+
+# Contract Lifecycle Management
+CLM connects your S2C process to ongoing contract management, ensuring every executed contract is tracked from creation through renewal or termination. Effective CLM reduces risk, improves visibility, and automates key milestones.
+## Contract Lifecycle Stages
+- Creation - S2C stage - Draft contract based on award terms, templates, and negotiations.
+- Execution - S2C stage - Contract signed by both parties. Stored in contract repository.
+- Active Management - Post-S2C - Monitor performance, track obligations, manage changes and disputes.
+- Renewal / Termination - Post-S2C - At contract end, decide to renew, renegotiate, or terminate.
+
+## Key CLM Activities
+- Contract storage: Centralized repository with search, retrieval, and access controls.
+- Obligation tracking: Monitor deliverables, milestones, and contractual commitments.
+- Performance monitoring: Track SLAs, KPIs, and supplier performance against contract terms.
+- Change management: Handle amendments, addendums, and contract modifications formally
+- Renewal management: Track expiration dates, initiate renewals, and renegotiate terms proactively.
+- Compliance monitoring: Ensure contract terms are being followed and identify violations early.
+
+# How S2C and CLM Work Together
+- S2C creates the contract and hands it to CLM for execution and ongoing tracking.
+- CLM stores the executed contract and manages it through its full lifecycle.
+- At renewal, CLM can trigger a new S2C cycle to re-source or renegotiate terms.
+- Performance data from CLM informs future S2C decisions and supplier selection.
+
+# S2C Operating Models
+A key strategic decision is whether to run S2C in-house, outsource to a managed service provider, or adopt a hybrid model. Each approach has different cost, control, and capability trade-offs.
+
+## In-House vs S2C Outsourcing
+
+| Built internally - In-House S2C | S2C Outsourcing - Platform or managed service |
+| ----------- | ----------- |
+| Advantages | Advantages |
+| Full control over processes and data | Weeks to deploy with a pre-built platform |
+| Deep ERP integration and custom workflows | Variable or per-transaction pricing |
+| Better suited to regulated or proprietary sourcing | Access to specialist procurement knowledge |
+| Long-term cost optimization once capability is built | Elastic scaling with spend volume |
+| Considerations | Considerations |
+| 6 to 18 months to build capability | Shared governance model reduces full control |
+| Fixed headcount plus technology investment | Requires process alignment with the provider
+| Dependent on internal hiring and retention | Strategic decisions still need internal ownership
+| Scales linearly with volume | Dependency on provider performance |
+
+## S2C Platform Selection Criteria
+ - Sourcing and RFX
+    - AI-generated RFP, RFQ, and RFI documents
+    - Structured vendor Q&A management
+    - Configurable pricing templates
+    - Multi-round sourcing support
+- Evaluation and Scoring
+    - Weighted scorecard builder
+    - Automated proposal scoring
+    - Side-by-side vendor comparison
+    - Full audit trail of scores and decisions
+- Contract Management
+    - Contract authoring and clause libraries
+    - Redlining and version control
+    - Obligation and renewal tracking
+    - Integration with CLM systems
+- Compliance and Governance
+    - Role-based access and approvals
+    - Compliance checklist automation
+    - Document retention and audit logs
+    - Policy enforcement in workflows
+- Integration and Scalability
+    - ERP and P2P system connectors
+    - SSO and enterprise security
+    - API access for custom workflows
+    - Multi-category and multi-region support
+- AI and Automation
+    - AI document generation and analysis
+    - Automated scoring and risk flagging
+    - Supplier discovery assistance
+    - Continuous learning from past projects
+    - 
