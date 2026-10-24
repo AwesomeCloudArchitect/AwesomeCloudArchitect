@@ -1,0 +1,1 @@
+Migrating user desktops to the cloud helps improve employee productivity so that employees can work from anywhere on a high-security cloud-based virtual desktop infrastructure. Azure provides several virtual desktop solutions to meet different organizational needs:
