@@ -1,0 +1,1 @@
+Azure Storage provides a foundation for persisting, backing up, and sharing data across cloud workloads. It offers object storage for unstructured data, managed file shares for enterprise applications, and durable queues for asynchronous messaging, with the reliability, security, and performance that modern architectures require.
