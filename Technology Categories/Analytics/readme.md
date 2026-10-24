@@ -1,0 +1,1 @@
+Organizations rely on the compute, storage, and analytical power of Azure to scale, stream, predict, and view their data. Analytics solutions transform volumes of data into useful business intelligence (BI), such as reports and visualizations, and inventive AI, such as forecasts based on machine learning. 
