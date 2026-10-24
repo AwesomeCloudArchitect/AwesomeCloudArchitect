@@ -1,0 +1,1 @@
+Hybrid architecture combines services in Azure with infrastructure and workloads in datacenters, at edge locations, and in other clouds. An adaptive cloud approach extends Azure management and governance across these distributed environments.
