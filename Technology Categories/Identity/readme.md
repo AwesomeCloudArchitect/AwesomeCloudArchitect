@@ -1,0 +1,3 @@
+Identity and access management (IAM) is a foundational element of cloud architecture. In on-premises systems, internal networks establish security boundaries. In cloud environments, perimeter networks and firewalls alone aren't sufficient for managing access to apps and data. Instead, public cloud systems rely on identity solutions for boundary security.
+
+An identity solution controls access to an organization's apps and data. Users, devices, and applications have identities. IAM components support the authentication and authorization of these identities. Authentication controls who or what uses an account. Authorization controls what a user can do in applications.
