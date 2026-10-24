@@ -1,0 +1,1 @@
+AI enables machines to analyze data, generate content, synthesize speech, make predictions, and support decision-making across industries. As AI capabilities expand through generative models, language models, and agent-based architectures, organizations need architectural guidance to design reliable, secure, cost-effective, and operationally stable AI workloads.
