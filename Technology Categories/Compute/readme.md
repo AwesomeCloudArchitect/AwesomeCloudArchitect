@@ -1,0 +1,1 @@
+Compute resources form the foundation of cloud workloads. Azure provides a wide range of compute options to meet diverse requirements, from virtual machines (VMs) that give you full control of the operating system to fully managed serverless functions that scale automatically. 
