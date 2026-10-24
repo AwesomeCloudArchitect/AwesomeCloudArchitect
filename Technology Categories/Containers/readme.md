@@ -1,0 +1,1 @@
+Containers are the standard for packaging and deploying modern applications. Azure provides a comprehensive set of container services that range from fully managed Kubernetes clusters to serverless container platforms.
